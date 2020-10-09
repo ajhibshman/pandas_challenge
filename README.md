@@ -1,6 +1,6 @@
 # pandas_challenge
 
-This repository analyzes data from a medium sized school district to determine factors influencing math and reading performance.
+This repository analyzes data from High Schools in a large school district to determine factors influencing math and reading performance.
 
 Summary Tables:
 1) District Summary:
@@ -34,8 +34,19 @@ Summary Tables:
 
 Conclusions:
 
+The top 5 performing schools are all charter schools, while the bottom 5 are all district run
+
+By school, average math scores remain relatively flat across grades, possible indicating that the difference in performance is not neccessarily due to the school, but rather due to either schools prior to high school, or variables impacting student selection into school such as economics.
+
+Higher school spending per student has a negative correlation with performance.
+
+Smaller schools have higher performance outcomes (Charter schools represent the smaller High Schools)
 
 Opportunity for further analysis:
+    - What factors may impact charter schools better outcomes?
+    - Are district schools more expensive or less efficient?
+
+    
 
 
 
