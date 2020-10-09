@@ -4,6 +4,9 @@ This repository analyzes data from a medium sized school district to determine f
 
 Summary Tables:
 1) District Summary:
-![District](Images/District_Summary.png)
+![District](https://github.com/ajhibshman/pandas_challenge/blob/main/Images/District_Summary.PNG)
+
+
+
 
 
