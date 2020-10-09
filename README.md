@@ -4,7 +4,6 @@ This repository analyzes data from a medium sized school district to determine f
 
 Summary Tables:
 1) District Summary:
-![GitHub Logo](/Images/District_Summary.png)
-Format: ![Alt Text](url)
+![District](Images/District_Summary.png)
 
 
