@@ -1,2 +1,8 @@
 # pandas_challenge
-Repository for pandas module
+
+This repository analyzes data from a medium sized school district to determine factors influencing math and reading performance.
+
+Summary Tables:
+1) District Summary:
+
+
